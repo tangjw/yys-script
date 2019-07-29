@@ -1,7 +1,7 @@
 # yys-script
 阴阳师按键精灵脚本
 ## 魂十一
-```
+```VB
 // 查找阴阳师窗口
 执行次数 = 50
 HwndEx = Plugin.Window.Search("阴阳师-网易游戏")
@@ -109,7 +109,7 @@ Obj.Run "shutdown -s -t 60"
 EndScript
 ```
 ## 业火原
-```
+```VB
 // 查找阴阳师窗口
 执行次数 = 15
 Hwnd = Plugin.Window.Find(0, "阴阳师-网易游戏")
